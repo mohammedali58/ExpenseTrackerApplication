@@ -1,0 +1,68 @@
+C:\Users\MohamedAbdelaziz\Rillion\ExpenseTrackerTool\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\MohamedAbdelaziz\Rillion\ExpenseTrackerTool\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\MohamedAbdelaziz\Rillion\ExpenseTrackerTool\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\MohamedAbdelaziz\Rillion\ExpenseTrackerTool\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\MohamedAbdelaziz\Rillion\ExpenseTrackerTool\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\MohamedAbdelaziz\Rillion\ExpenseTrackerTool\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\MohamedAbdelaziz\Rillion\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MohamedAbdelaziz\Rillion\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohamedAbdelaziz\Rillion\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MohamedAbdelaziz\Rillion\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\MohamedAbdelaziz\Rillion\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MohamedAbdelaziz\Rillion\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\MohamedAbdelaziz\Rillion\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\MohamedAbdelaziz\Rillion\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\MohamedAbdelaziz\Rillion\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\MohamedAbdelaziz\Rillion\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\MohamedAbdelaziz\Rillion\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\sesa734506\Downloads\New folder\ExpenseTrackerTool\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sesa734506\Downloads\New folder\ExpenseTrackerTool\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sesa734506\Downloads\New folder\ExpenseTrackerTool\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sesa734506\Downloads\New folder\ExpenseTrackerTool\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\sesa734506\Downloads\New folder\ExpenseTrackerTool\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sesa734506\Downloads\New folder\ExpenseTrackerTool\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\sesa734506\Downloads\New folder\ExpenseTrackerTool\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\sesa734506\Downloads\New folder\ExpenseTrackerTool\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\sesa734506\Downloads\New folder\ExpenseTrackerTool\ExpenseTrackerTool\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\sesa734506\Downloads\New folder\ExpenseTrackerTool\ExpenseTrackerTool\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\sesa734506\Downloads\New folder\ExpenseTrackerTool\ExpenseTrackerTool\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\sesa734506\Downloads\New folder\ExpenseTrackerTool\ExpenseTrackerTool\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\sesa734506\Downloads\New folder\ExpenseTrackerTool\ExpenseTrackerTool\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\sesa734506\Downloads\New folder\ExpenseTrackerTool\ExpenseTrackerTool\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\sesa734506\Downloads\New folder\ExpenseTrackerTool\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\sesa734506\Downloads\New folder\ExpenseTrackerTool\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\sesa734506\Downloads\New folder\ExpenseTrackerTool\ExpenseTrackerTool\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Mahmoud_Fadel\source\prvt\Expenses\Expenses\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Mahmoud_Fadel\source\prvt\Expenses\Expenses\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Mahmoud_Fadel\source\prvt\Expenses\Expenses\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Mahmoud_Fadel\source\prvt\Expenses\Expenses\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Mahmoud_Fadel\source\prvt\Expenses\Expenses\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Mahmoud_Fadel\source\prvt\Expenses\Expenses\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Mahmoud_Fadel\source\prvt\Expenses\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mahmoud_Fadel\source\prvt\Expenses\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud_Fadel\source\prvt\Expenses\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mahmoud_Fadel\source\prvt\Expenses\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Mahmoud_Fadel\source\prvt\Expenses\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud_Fadel\source\prvt\Expenses\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\Mahmoud_Fadel\source\prvt\Expenses\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Mahmoud_Fadel\source\prvt\Expenses\Expenses\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Mahmoud_Fadel\source\prvt\Expenses\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Mahmoud_Fadel\source\prvt\Expenses\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Mahmoud_Fadel\source\prvt\Expenses\Expenses\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\sesa734506\Downloads\Expenses0208\Expenses\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\sesa734506\Downloads\Expenses0208\Expenses\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\sesa734506\Downloads\Expenses0208\Expenses\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\sesa734506\Downloads\Expenses0208\Expenses\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\sesa734506\Downloads\Expenses0208\Expenses\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\sesa734506\Downloads\Expenses0208\Expenses\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\sesa734506\Downloads\Expenses0208\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sesa734506\Downloads\Expenses0208\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sesa734506\Downloads\Expenses0208\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sesa734506\Downloads\Expenses0208\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\sesa734506\Downloads\Expenses0208\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sesa734506\Downloads\Expenses0208\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\sesa734506\Downloads\Expenses0208\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\sesa734506\Downloads\Expenses0208\Expenses\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\sesa734506\Downloads\Expenses0208\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\sesa734506\Downloads\Expenses0208\Expenses\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\sesa734506\Downloads\Expenses0208\Expenses\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
